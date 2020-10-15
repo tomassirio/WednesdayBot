@@ -1,0 +1,2 @@
+# WednesdayBot
+Is it Wednesday?
