@@ -2,7 +2,7 @@ const Util = require('../utils/utils.js')
 
 module.exports = {
     name: 'wednesday',
-    description: 'Is it Wednesday?', // execute: async (message, args) => {
+    description: 'Is it Wednesday?',
     execute: async (message, args) => {
         let { channel } = message
         let embededMessage = Util.embedMessage(
@@ -19,5 +19,4 @@ module.exports = {
         }
         channel.send(embededMessage)
     },
-  
   };
