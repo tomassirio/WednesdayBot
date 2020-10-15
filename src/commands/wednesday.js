@@ -11,6 +11,10 @@ module.exports = {
         let embededMessage;
         if(today.getDay() == 3) {
             embededMessage = 'It is wednesday my dudes'
+        } else if(today.getDay() == 2) {
+            embededMessage = 'Brace yourselves, wednesday is coming!'
+        } else if(today.getDay() == 4) {
+            embededMessage = 'It was yesterday. Do you want more wednesdays? Me too'
         } else {
             embededMessage = 'It is not :('
         }
