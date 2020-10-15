@@ -1,7 +1,7 @@
 const Util = require('../utils/utils.js')
 
 module.exports = {
-    name: 'isIt?',
+    name: 'wednesday',
     description: 'Is it Wednesday?', // execute: async (message, args) => {
     execute: async (message, args) => {
         let { channel } = message
