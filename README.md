@@ -20,6 +20,10 @@ you can use the following commands:
     * &wednesday: Messages you if it is wednesday my dude
 ```
 
+Also there is a cron configured on the Ready event. So every time it's Wednesday, the bot is going to tell you automatically
+
+![not](https://i.imgur.com/WVoiVbm.png)
+
 ## :star: Getting started
 
 ### :computer: Installation
