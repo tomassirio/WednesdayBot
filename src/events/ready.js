@@ -6,8 +6,9 @@ module.exports = async (client) => {
 
     cron.schedule('0 0 10 * * WED', () => {
       client.channels.cache.find(channel => channel.name === 'is-it-wednesday')
-        .send('@everyone It is wednesday my dudes');
-        console.log('Runing a job on Wednesdays at 10:00');
+        .send('@everyone It is wednesday my dudes')
+        console.log('Runing a job on Wednesdays at 10:00')
+	console.log('It is Wednesday my dudes')
       }, {
         scheduled: true,
         timezone: "America/Sao_Paulo"
