@@ -1,10 +1,11 @@
 const Discord = require('discord.js')
 
 const Utils = {
-    embedMessage(message, color) {
+    embedMessage(embedMessage, color) {
         const embed = new Discord.MessageEmbed()
-            .setTitle(message)
+            .setTitle(embedMessage.message)
             .setColor(color)
+            .setImage(embedMessage.imageURI)
         return embed
     }
 }
