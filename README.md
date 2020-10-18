@@ -67,14 +67,14 @@ This bot needs the following permissions:
     </td>
       <td align="center">
         <a href="https://github.com/guieiras">
-            <img src="https://avatars0.githubusercontent.com/u/16104013?s=60&v=4" width="100;" alt="guieiras"/>
+            <img src="https://avatars0.githubusercontent.com/u/16104013?v=4" width="100;" alt="guieiras"/>
             <br />
             <sub><b>Guieiras</b></sub>
         </a>
     </td>
       <td align="center">
         <a href="https://github.com/shubheshdwivedi">
-            <img src="https://avatars0.githubusercontent.com/u/20144724?s=60&v=4" width="100;" alt="shubheshdwivedi"/>
+            <img src="https://avatars0.githubusercontent.com/u/20144724?v=4" width="100;" alt="shubheshdwivedi"/>
             <br />
             <sub><b>Shubheshdwivedi</b></sub>
         </a>
