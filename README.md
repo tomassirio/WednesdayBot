@@ -65,6 +65,20 @@ This bot needs the following permissions:
             <sub><b>Tomas Sirio</b></sub>
         </a>
     </td>
+      <td align="center">
+        <a href="https://github.com/guieiras">
+            <img src="https://avatars0.githubusercontent.com/u/16104013?s=60&v=4" width="100;" alt="guieiras"/>
+            <br />
+            <sub><b>Guieiras</b></sub>
+        </a>
+    </td>
+      <td align="center">
+        <a href="https://github.com/shubheshdwivedi">
+            <img src="https://avatars0.githubusercontent.com/u/20144724?s=60&v=4" width="100;" alt="shubheshdwivedi"/>
+            <br />
+            <sub><b>Shubheshdwivedi</b></sub>
+        </a>
+    </td>
 </tr>
 </table>
 <!-- readme: contributors -end -->
