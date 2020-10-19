@@ -7,12 +7,18 @@ module.exports = {
         const today = new Date()
         const { channel } = message
         const color = '0xffff00'
+        const collection = [
+            'https://i.imgur.com/1Ezcod1.png',
+            'https://i.imgur.com/UHp7TTB.png',
+            'https://i.imgur.com/ZFzE9TI.png'
+        ];
 
         let embededMessage;
         if(today.getDay() == 3) {
+            let index = Math.floor(Math.random() * Math.floor(collection.length));
             embededMessage = {
                 message: 'It is wednesday my dudes',
-                imageURI: 'https://i.imgur.com/1Ezcod1.png'
+                imageURI: collection[index]
             }
         } else if(today.getDay() == 2) {
             embededMessage = {
