@@ -6,7 +6,7 @@ module.exports = {
     execute: async (message, args) => {
         const today = new Date()
         const { channel } = message
-        const color = '0xffff00'
+        const color = '0x2e3136'
         const collection = [
             'https://i.imgur.com/1Ezcod1.png',
             'https://i.imgur.com/UHp7TTB.png',
